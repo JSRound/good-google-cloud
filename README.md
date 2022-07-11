@@ -1,8 +1,11 @@
 # good-google-cloud
 Repository to save info about google cloud
 
+## [Free tier and limits](./docs/free-tier.md)
+
 ## Secret Manager
 * [Administra Secrets con Secret Manager en Cloud Code para VS Code](https://cloud.google.com/code/docs/vscode/secret-manager)
+* [Cloud Code and Secret Manager integration](https://youtu.be/uU-OnywmN_A)
 
 ## Projects
 * [Crea un proyecto de Cloud](https://cloud.google.com/appengine/docs/standard/nodejs/building-app/creating-project)
