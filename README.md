@@ -1,6 +1,8 @@
 # good-google-cloud
 Repository to save info about google cloud
 
+## [Billing](./docs/billing.md)
+
 ## [Free tier and limits](./docs/free-tier.md)
 
 ## Secret Manager
